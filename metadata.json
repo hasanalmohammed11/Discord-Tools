@@ -1,0 +1,6 @@
+{
+  "name": "Discord Tools",
+  "description": "All-in-one utility hub for Discord users: File Center with Supabase storage, Discord Bots directory, and essential tools like Timestamp Generator, Embed Builder, Permissions Calculator, Webhook Builder, and Color Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
